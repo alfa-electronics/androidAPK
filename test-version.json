@@ -1,6 +1,6 @@
 {
   "versionName":"2.2",
-  "versionCode": "22",
+  "versionCode": "20",
   "apkUrl":"https://github.com/alfa-electronics/androidAPK/blob/master/app-release.apk?raw=true",
   "forceUpdate": false
 }
